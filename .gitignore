@@ -1,0 +1,17 @@
+
+*.js
+
+node_modules/
+
+dist/
+
+test/
+
+
+*.yml
+
+*.ls
+
+*.map
+
+*.log
