@@ -1,5 +1,5 @@
-# 99-problems-graphql-aint-one
+# Aha! I get Git
 
-Talk for LvivJS 2018
+Talk for GitHub Campus Experts
 
 ...
