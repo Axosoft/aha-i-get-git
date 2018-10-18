@@ -16,6 +16,6 @@ Many people are visual learners, and GitKraken will illustrate core git operatio
 
 While this presentation template assumes use of this forked repo, please feel welcome to substitute it with any other repo.
 
-By the end of this workshop, your community members should feel empowered to open any repo and making contributions.
+By the end of this workshop, your community members should feel empowered to open any repo and make contributions.
 
 ...
