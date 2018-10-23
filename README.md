@@ -12,7 +12,7 @@ Additionally, my team put together this resource page for students, which contai
 
 ## Tips for the workshop
 
-Many people are visual learners, and GitKraken will illustrate core Git operations beautifully. The workshop is intended to provide the attentees a collective experience to reinforce the learning.
+Many people are visual learners, and GitKraken will illustrate core Git operations beautifully. The workshop is intended to provide the attendees a collective experience to reinforce the learning.
 
 While this presentation template assumes use of this forked repo, please feel welcome to substitute it with any other repo.
 
